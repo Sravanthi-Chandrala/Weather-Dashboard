@@ -154,18 +154,6 @@ If you have any questions or run into issues, please:
 ### Main Weather Display
 ![Weather App Hero](./src//assets//Hero.png)
 
-### Responsive Design - Desktop & Mobile
-<div align="center">
-  <img src="./screenshots/desktop-view.png" alt="Desktop View" width="60%">
-  <img src="./screenshots/mobile-view.png" alt="Mobile View" width="35%">
-</div>
-
-### Different Weather Conditions
-<div align="center">
-  <img src="./screenshots/sunny-weather.png" alt="Sunny Weather" width="30%">
-  <img src="./screenshots/rainy-weather.png" alt="Rainy Weather" width="30%">
-  <img src="./screenshots/cloudy-weather.png" alt="Cloudy Weather" width="30%">
-</div>
 
 ### Temperature Unit Toggle
 ![Temperature Units](./src//assets//Ct.png)
